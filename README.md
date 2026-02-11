@@ -1,210 +1,246 @@
 Awesome IOTA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
-
-A community driven list of useful IOTA blogs, articles, videos and tools. This is not a catalog of all the content, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful IOTA blogs, articles, videos and tools. This is not a catalog of all the content, just a starting point for your explorations.
 
 - [Awesome IOTA](#awesome-iota)
     - [About](#about)
-    - [Blogs](#blogs--sites)    
+    - [Blogs & Sites](#blogs--sites)
     - [Articles](#articles)
     - [Videos](#videos)
     - [Wallets](#wallets)
-    - [Tools](#tools)
+    - [Explorers & Tools](#explorers--tools)
     - [Developers](#developers)
-    - [Chrysalis (IOTA 1.5)](#chrysalis)
+    - [Ecosystem](#ecosystem)
+    - [Community](#community)
+    - [Events & Hackathons](#events--hackathons)
+    - [Grants & Funding](#grants--funding)
 - [Contributing](#contributing)
 
 ## About
 
 *What is IOTA?*
 
-**IOTA** is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It’s based on a new distributed ledger architecture, the **Tangle**, which overcomes the inefficiencies of current **Blockchain** designs and introduces a new way of reaching consensus in a **decentralized peer-to-peer system**. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA.
+**IOTA** is an open-source, scalable distributed ledger focused on global trade, digital identity, and real-world asset tokenization. In May 2025, IOTA underwent a full protocol rebase — moving from the original Tangle architecture to a **Move VM-based Layer 1** with **Delegated Proof-of-Stake** and **Mysticeti BFT** consensus. The result: 50,000+ TPS, sub-second finality, native smart contracts via the **Move** programming language, and an **EVM-compatible Layer 2**.
 
-**IOTA** is the missing puzzle piece for **the Machine Economy** to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.
+The IOTA Foundation is a non-profit based in Germany, focused on building infrastructure for global trade, digital identity, and tokenization of real-world assets.
 
-* [IOTA](https://iota.org) - A non-profit foundation developing next generation protocols for the connected world.
-* [Whitepaper](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf) - The Tangle
-* [Academic Papers](https://www.iota.org/foundation/research-papers) - Research undertaken on topics related to The Tangle and IOTA technologies.
-* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology)) - IOTA (technology)
-* [A Primer on IOTA](https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621) - A Primer on IOTA (with Presentation)
-* [IOTA China](http://iotachina.com/) - IOTA China 首页
-* [IOTA Italia](http://iotaitalia.com/) - IOTA Italia
-* [IOTA Korea](http://blog.naver.com/iotakorea) - IOTA 한국
-* [IOTA Japan](http://lhj.hatenablog.jp/entry/iota) - IOTA 日本
-* [IOTA on Reddit](https://www.reddit.com/r/Iota/)
+* [IOTA](https://iota.org) - Official website of the IOTA Foundation.
+* [Whitepaper](https://www.iota.org/pdf/IOTA_Technical_and_Tokenomics_Whitepaper.pdf) - IOTA Technical and Tokenomics Whitepaper (May 2025)
+* [Documentation](https://docs.iota.org/) - Official IOTA developer and user documentation.
+* [IOTA on Reddit](https://www.reddit.com/r/Iota/) - Community subreddit
 
 ## Blogs & Sites
 
 *Blogs & Sites about IOTA*
 
-* [IOTA Blog](https://blog.iota.org) - Official Blog of IOTA
-* [HelloIOTA](https://www.helloiota.com/) - IOTA Blog and Videos
-* [IOTA Stack Exchange](https://iota.stackexchange.com/) - IOTA Stack Exchange
-* [IOTA Steemit Trending](https://steemit.com/trending/iota) - IOTA Steemit
-* [IOTA News](http://iota.news) - IOTA News
-* [IOTA Archive](https://iotaarchive.com) - IOTA partnerships, cooperations, collaborations, showcases, proof of concepts, academic research and industrial interest in the IOTA protocol
+* [IOTA Blog](https://blog.iota.org) - Official Blog of the IOTA Foundation
+* [IOTA News](https://iota-news.com/) - Community news aggregator covering IOTA ecosystem developments
 
 ## Articles
 
 *Articles about IOTA*
 
-* [IOTA Development Roadmap](https://blog.iota.org/iota-development-roadmap-74741f37ed01) - IOTA Development Roadmap
-* [insights.ubuntu.com](https://insights.ubuntu.com/2017/02/20/iota-iot-revolutionized-with-a-ledger/) - IOTA: IoT revolutionised with a ledger
-* [blog.iota.org](https://blog.iota.org/automating-machine-transactions-and-building-trust-in-the-4th-industrial-revolution-d3219a157396) - Automating Machine Transactions and Building Trust in the 4th Industrial Revolution
-* [satoshiwatch.com](https://satoshiwatch.com/coins/iota/in-depth/iota-the-winner-takes/) - The Winner Takes it All
-* [Crypto Judgement](https://medium.com/@cryptojudgement/iota-promise-of-a-bright-crypto-future-6b7517349e32) - IOTA: Promise of a bright crypto-future
-* [energycentral.com](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d) - Genuine Peer-to-Peer Processing Makes IOTA Tangle What Bitcoin Blockchains Should Be
-* [constellationr.com](https://www.constellationr.com/blog-news/blockchain-or-distributed-ledger-defining-requirement-not-technology-0) - Blockchain or Distributed Ledger? Defining the requirement, not the technology
-* [IOTA Ecosystem Fund](https://blog.iota.org/iota-ecosystem-fund-2-million-f6ade6a4d8ba) - IOTA Ecosystem Fund ($2 million)
+### IOTA Rebased
+
+* [The IOTA Rebased Mainnet Upgrade](https://blog.iota.org/rebased-mainnet-upgrade/) - Mainnet launch announcement (May 2025)
+* [IOTA Rebased: Technical View](https://blog.iota.org/iota-rebased-technical-view/) - Architecture deep dive: object model, Mysticeti, MoveVM, dual-VM
+* [Builders Welcome. Rebase Complete](https://blog.iota.org/builders-welcome-rebase-complete/) - Post-launch developer guide
+* [IOTA Rebased: Fast Forward](https://blog.iota.org/iota-rebased-fast-forward/) - Original Rebased proposal (November 2024)
+* [IOTA Rebased Welcomed by the Community](https://blog.iota.org/iota-rebased-welcomed-by-community/) - Governance vote: 98.37% in favor (December 2024)
+* [IOTA Rebased Genesis Validators](https://blog.iota.org/iota-rebased-genesis-validators/) - Genesis ceremony and initial validator set
+* [From IOTA Tangle 2.0 to Rebased: A Comparative Analysis](https://www.mdpi.com/1424-8220/25/11/3408) - Peer-reviewed paper (MDPI Sensors, 2025)
+* [IOTA 2025](https://blog.iota.org/iota-2025-review/) - Year-in-review and 2026 outlook
+
+### Real-World Adoption
+
+* [ADAPT: Building Africa's Digital Trade Future](https://blog.iota.org/adapt-africa-digital-trade/) - Digital trade with AfCFTA, WEF, and Tony Blair Institute
+* [TWIN Foundation Launched](https://blog.iota.org/twin-foundation-launched/) - Trade Worldwide Information Network
+* [This initiative could cut the cost of global trade by 25%](https://www.weforum.org/stories/2025/06/twin-foundation-global-trade/) - World Economic Forum on TWIN
+* [Trade Finance, Reinvented](https://blog.iota.org/trade-finance-reinvented/) - Salus: trade finance for critical minerals
+* [GLEIF Partnership](https://blog.iota.org/gleif-partnership/) - Verifiable digital business identities via GLEIF
+* [IOTA Trust Framework](https://blog.iota.org/iota-trust-framework/) - Toolkit for identity, notarization, and tokenization
+* [IOTA is Now a Shari'a-Compliant Token](https://blog.iota.org/sharia-compliance-iota/) - Shari'a compliance certificate (Cambridge IIF)
+* [Next Steps for ADAPT](https://blog.iota.org/next-steps-for-adapt/) - ADAPT rollout plan (December 2025)
+* [Turning Pilots into Progress](https://blog.iota.org/turning-pilots-into-progress/) - UK trade pilot results (February 2026)
+* [Reimagining the Seafood Industry](https://blog.iota.org/kalalohko-joins-iota-bip/) - Supply chain use case (January 2026)
+
+### Third-Party Analysis
+
+* [IOTA's Bid for the Next DAG-Based Breakthrough](https://4pillars.io/en/articles/iota-s-bid-for-the-next-dag-based-breakthrough) - Technical analysis (Four Pillars, 2025)
+* [From Platform to Infrastructure: IOTA's Trade Revolution](https://4pillars.io/en/articles/from-platform-to-infrastructure-iotas-trade-revolution) - Strategic analysis (Four Pillars, 2025)
+* [Introduction to IOTA](https://stakin.com/blog/introduction-to-iota-smart-contracts-staking-and-network-utility-2025) - Smart contracts, staking, and utility overview (Stakin, 2025)
+* [Guide to IOTA Rebased](https://daic.capital/blog/iota-rebased-upgrade-movevm) - Tech, tokenomics & ecosystem (DAIC Capital, 2025)
+
+### Media Coverage
+
+* [Digitize Trade in Africa with Blockchain, Stablecoins](https://cointelegraph.com/news/africa-adapt-digital-trade-platform-iota-blockchain) - CoinTelegraph, November 2025
+* [Africa Turns to Stablecoins, IOTA to Unlock $70B](https://www.coindesk.com/business/2025/11/17/africa-embraces-stablecoins-via-iota-to-unlock-usd70b-pan-continent-trade-tech) - CoinDesk, November 2025
+* [IOTA Kickstarts EVM Targeting DeFi, RWA](https://www.coindesk.com/tech/2024/06/05/iota-kickstarts-evm-targeting-defi-real-world-assets) - CoinDesk, June 2024
+
+### Strategy & Vision
+
+* [IOTA Manifesto: The World Onchain](https://blog.iota.org/iota-manifesto/) - Vision for the $35T global trade market (January 2026)
+* [BitGo Adds IOTA](https://blog.iota.org/bitgo-adds-iota-to-global-custody-offering/) - Institutional custody support (December 2025)
+* [LayerZero and Stargate Integration](https://blog.iota.org/iota-mainnet-integrates-layerzero-and-stargate/) - Cross-chain connectivity to 150+ networks (December 2025)
 
 ## Videos
 
 *Videos about IOTA*
 
-* [What is IOTA?](https://www.youtube.com/watch?v=yj9j_a_ACB4) - IOTA - What is IOTA? What is the tangle technology? The Bitcoin killer?
-* [Boxmining](https://www.youtube.com/watch?v=UwEp5cexTJE) - What is IOTA in a Nutshell
-* [Ivan on Tech](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA and Machine to Machine Economy | Programmer explains
-* [Introducing IOTA](https://www.youtube.com/watch?v=FBGFIQPZR6A) - Introducing IOTA - new crypto
-* [Next Generation Blockchain](https://www.youtube.com/watch?v=Wbhkao9Lobk) - IOTA - Next Generation Blockchain
-* [New Crypto](https://www.youtube.com/watch?v=Pn64REtS2gY) - New Crypto IOTA
-* [Discover IOTA](https://www.youtube.com/watch?v=h09z2N0MtuQ) - Discover IOTA
-* [General Overview for Beginners](https://www.youtube.com/watch?v=2azqzNKERMY) - General Overview for Beginners
-* [This is IOTA](https://www.youtube.com/watch?v=LyVLq13WfsE) - This is IOTA
-* [IOTA - The Next Level](https://www.youtube.com/watch?v=cM_XhH6N2zc) - IOTA - The Next Level
-* [What is IOT?](https://www.youtube.com/watch?v=S64s3GrZlSM) - What is IOT?
-* [How it works: The IOT](https://www.youtube.com/watch?v=QSIPNhOiMoE) - How it works: The IOT
-* [Welcome to the IOTA universe](https://www.youtube.com/watch?v=n5sEevHBLN8) - Welcome to the IOTA universe
-* [IOTA coin](https://www.youtube.com/watch?v=SUNkglQhC8Y) - IOTA coin
+* [What Is Iota In a Nutshell](https://www.youtube.com/watch?v=aCJYMwKPSpk) - Rebased upgrade explained (Boxmining, 2025)
+* [IOTA Foundation](https://www.youtube.com/@iotafoundation) - Official YouTube channel
 
 ## Wallets
 
 *IOTA Wallets*
 
-* [Trinity Wallet](https://trinity.iota.org/) - IOTA - Trinity Wallet (Desktop and Mobile)
+### Official
 
+* [IOTA Wallet](https://chromewebstore.google.com/detail/iota-wallet/iidjkmdceolghepehaaddojmnjnkkija) - Official browser extension wallet for IOTA Rebased (Chrome, Edge, Brave). [Getting Started](https://docs.iota.org/users/iota-wallet/getting-started)
+* [IOTA Wallet Dashboard](https://wallet-dashboard.iota.org/) - Web dApp for advanced management, staking, delegation, and Stardust migration. [Getting Started](https://docs.iota.org/users/iota-wallet-dashboard/getting-started)
 
+### Third-Party
 
-## Tools
+* [Nightly Wallet](https://nightly.app/) - Multi-chain wallet with IOTA Rebased support (browser extension + iOS/Android)
 
-*3rd party tools on IOTA*
-* [einfachIOTA Explorer](https://explorer.einfachiota.de/) - Tangle Explorer and Tools
-* [IOTA Price](https://iotaprice.com) - IOTA Price
+### Hardware
 
+* **Ledger** - Supported via the IOTA Ledger app (Nano X, Nano S Plus, Flex, Stax). Works with IOTA Wallet and IOTA Wallet Dashboard.
+
+## Explorers & Tools
+
+*Block explorers and network tools*
+
+* [IOTA Explorer](https://explorer.iota.org/) - Official IOTA L1 block explorer
+* [Blockscout EVM Explorer](https://explorer.evm.iota.org/) - IOTA EVM L2 block explorer
+* [IOTAScan](https://iotascan.com/) - Community block explorer and analytics platform
+* [IOTA EVM Bridge](https://evm-bridge.iota.org/) - Bridge assets between IOTA L1 and EVM L2
 
 ## Developers
 
-*Links to developing IOTA Applications*
+*Building on IOTA*
 
-### Official by the IOTA Foundation
+### Getting Started
 
-* [Tangle Explorer](https://explorer.einfachiota.de/) - Official IOTA  Explorer and Tools
-* [Documentation](https://docs.iota.org/) - Documentation of IOTA
-* [Get Started with IOTA](https://docs.iota.org/docs/getting-started/1.1/introduction/overview) - The best way to learn more about IOTA through interactive developer tutorials
+* [Developer Documentation](https://docs.iota.org/developer/getting-started/) - Official getting started guide
+* [Local Network Setup](https://docs.iota.org/developer/getting-started/local-network) - Run a local IOTA network for development
+* [Move on IOTA](https://www.iota.org/learn/move) - Learn the Move programming language for IOTA smart contracts
+* [Move Standards](https://docs.iota.org/developer/standards) - Coin, Coin Manager, Closed-Loop Token, Kiosk, Kiosk Apps, Object Display, and Wallet standards
+* [Framework Reference](https://docs.iota.org/developer/references/framework) - API docs for the IOTA Move framework packages
+* [API Reference](https://docs.iota.org/iota-api-ref) - IOTA JSON-RPC API reference
+* [GraphQL RPC](https://docs.iota.org/developer/graphql-rpc) - IOTA GraphQL API usage guide. [Schema Reference](https://docs.iota.org/developer/references/iota-graphql)
+* [Tooling Overview](https://www.iota.org/products/tooling) - Official overview of developer tools
 
+### SDKs
 
-#### Libraries
-* [iota.lib.csharp](https://github.com/iotaledger/iota.lib.csharp) - Iota.Lib.Csharp
-* [iota.lib.py](https://github.com/iotaledger/iota.lib.py) - PyOTA: The IOTA Python API Library
-* [iota.lib.js](https://github.com/iotaledger/iota.lib.js) - IOTA Javascript Library
-* [iota.rs](https://github.com/iotaledger/iota.rs) - IOTA implementation ( rust )
-* [iota.lib.go](https://github.com/iotaledger/iota.lib.go) - gIOTA: The IOTA Go API Library
-* [iota.lib.java](https://github.com/iotaledger/iota.lib.java) - JOTA library is a simple Java wrapper around IOTA
-* [curl.lib.js](https://github.com/iotaledger/curl.lib.js) - IOTA Proof-of-Work algorithm ported to Javascript to work in WebGL2-enabled browsers
+* [IOTA TypeScript SDK](https://github.com/iotaledger/iota/tree/develop/sdk/typescript) (`@iota/iota-sdk`) - Primary client SDK for TypeScript/JavaScript. [Docs](https://docs.iota.org/developer/ts-sdk/typescript/)
+* [IOTA dApp Kit](https://github.com/iotaledger/iota/tree/develop/sdk/dapp-kit) (`@iota/dapp-kit`) - React components and hooks for building dApps. [Docs](https://docs.iota.org/developer/ts-sdk/dapp-kit/)
+* [IOTA Rust SDK](https://github.com/iotaledger/iota/tree/develop/crates/iota-sdk) - Rust SDK within the IOTA monorepo. [Docs](https://docs.iota.org/developer/references/rust-sdk)
+* [IOTA SDK v2](https://github.com/iotaledger/iota-rust-sdk) - Rust SDK with bindings for Kotlin, Python, and Go (under active development)
+* [IOTA Go SDK](https://github.com/iotaledger/iota-sdk-go) - Go SDK for IOTA Rebased
+* [create-dapp](https://github.com/iotaledger/iota/tree/develop/sdk/create-dapp) (`@iota/create-dapp`) - CLI scaffolding tool for React dApp projects
 
-### Non Official
+### Application Libraries
 
-#### Libraries
-* [.NET library](https://github.com/Borlay/Borlay.Iota.Library) - .NET library written in C#
-* [IOTA C++ library](https://github.com/thibault-martinez/iota.lib.cpp) A IRI client library in C++ for IRI
-* [IOTA address utilities](https://github.com/pRizz/IOTA-Address-Utilities) A library to working with IOTA addresses
-* [IOTA C Library](https://github.com/embedded-iota/iota-c-library/tree/upgrade) A C library to generate addresses, transaction and bundles etc.
-* [IOTA RIOT OS integration](https://github.com/Citrullin/RIOT/blob/iota_implementation/examples/iota-transaction/main.c) An integration of the C library in RIOT OS.
-
-#### Management
-
-* [IOTA peer manager](https://github.com/akashgoswami/ipm) - A peer (neighbors) management WebUI for IRI 
-* [Open IOTA](https://github.com/pRizz/open-iota) A open tangle explorer web app
-* [IOTA Search](https://github.com/eukaryote31/iotasearch) A web app for exploring addresses, transactions etc.
-* [IOTA dashboard](https://github.com/lsquires/iota-dashboard) A tangle visualiser
-* [IOTA transaction spammer](https://github.com/pRizz/iota-transaction-spammer-webapp) A web app transaction spammer
-* [IOTA Reattacher](https://github.com/normpad/IOTA-Reattacher) A app which finds valid transactions and reattach them
-* [IOTA full-node CLI](https://github.com/nazarimilad/iota-node) A CLI to manage a full-node
-
-#### Payment
-* [PayIOTA](https://github.com/lacicloud/payiota) A IOTA pay-gateway for PHP
-
-#### Deployment
-* [Docker IRI full-node](https://github.com/bluedigits/iota-node) A dockerized full-node
-* [IRI playbook](https://github.com/nuriel77/iri-playbook) A ansible playbook to setup a IRI full-node
-
-#### Other
-* [Bolero](https://github.com/SemkoDev/bolero.fun) A cross-platform full-node
-* [CarrIOTA Nelson](https://github.com/SemkoDev/nelson.cli) Neighbor discovery for a IRI full-node
-* [IOTAtipbot](https://github.com/normpad/iotatipbot) A tip bot for reddit
-* [Tanglestash](https://github.com/loehnertz/Tanglestash) An algorithm to persist any file onto the tangle of IOTA
-* [Iota-Auth](https://github.com/thedewpoint/iotauth) 2FA built on the Iota Tangle
-* [Iota-Basic](https://github.com/thedewpoint/iota-basic) Basic implementation of Iota api allowing easy interactions with the network (in progress)
-* [Iota-Prom-Exporter](https://github.com/crholliday/iota-prom-exporter) Prometheus exporter for IOTA Metrics and associated Grafana dashboard
-* [TangleID](https://github.com/TangleID/TangleID) Secure self-sovereign identity built on IOTA/Tangle
-
-## Chrysalis
-Chrysalis (IOTA 1.5) is changing a lot of things. 
-
-Let's discover, what in detail!
-
-### Articles
-* [Chrysalis Weekly Update - January 8](https://blog.iota.org/chrysalis-update-january-8/)
-* [Chrysalis (IOTA 1.5) Public Testnet is Live](https://blog.iota.org/chrysalis-phase-2-testnet-out-now/)
-* [Chrysalis weekly update - December 11](https://blog.iota.org/chrysalis-update-december-11/)
-* [Chrysalis update — December 4](https://blog.iota.org/chrysalis-update-december-4-130be7e5650d/)
-* [Chrysalis Weekly Status Update — November 27](https://blog.iota.org/chrysalis-weekly-update-november-27-9a7582485d2/)
-* [Chrysalis Weekly Status Update — November 19th](https://blog.iota.org/chrysalis-weekly-update-november-19-51583f4b9a66/)
-* [Dev Status Update — November, 2020](https://blog.iota.org/dev-status-update-november-2020-80e28a27f7bb/)
-* [Dev Status Update — November, 2020](https://blog.iota.org/dev-status-update-november-2020-80e28a27f7bb/)
-* [Dev Status Update — October, 2020](https://blog.iota.org/dev-status-update-october-2020-3a8253792383/)
-* [Chrysalis (IOTA 1.5) Phase 2 Update And Next Steps](https://blog.iota.org/chrysalis-iota-1-5-phase-2-update-and-next-steps-eecabe55d7bd/)
-
-
-### Nodes
-* [goHornet (branch: develop)](https://github.com/gohornet/hornet/tree/develop) - IOTA Node driven by the Community
-* [bee (branch: chrysalis-pt-2)](https://github.com/iotaledger/bee/tree/chrysalis-pt-2) - IOTA Node driven by IOTA Foundation
-
-### Client Software
-* [iota.rs](https://github.com/iotaledger/iota.rs)
-    * [Node.js](https://github.com/iotaledger/iota.rs/tree/dev/bindings/node)
-* [wallet.rs](https://github.com/iotaledger/wallet.rs)
-    * [Node.js](https://github.com/iotaledger/wallet.rs/tree/develop/bindings/nodejs)
-
-
-### Public Network Access
-Nodes deployed to the testnet can be queried using a load balancer at:
-
-- api.lb-0.testnet.chrysalis2.com
-
-We recommend using the load balancer for most scenarios.
-
-Single node endpoints, for example for MQTT use, are:
-
-- api.hornet-0.testnet.chrysalis2.com
-- api.hornet-1.testnet.chrysalis2.com
-- api.hornet-2.testnet.chrysalis2.com
-- api.hornet-3.testnet.chrysalis2.com
-
-
-Node API is integrated according to the [following specification](https://editor.swagger.io/?url=https://raw.githubusercontent.com/rufsam/protocol-rfcs/master/text/0026-rest-api/rest-api.yaml)
+* [IOTA Identity](https://github.com/iotaledger/identity) - W3C Decentralized Identifiers (DID) and Verifiable Credentials on MoveVM. [Docs](https://docs.iota.org/developer/iota-identity/)
+* [Notarization](https://github.com/iotaledger/notarization) - Document and data notarization
+* [Gas Station](https://github.com/iotaledger/gas-station) - Sponsor transaction fees for users (gasless transactions). [Docs](https://docs.iota.org/operator/gas-station/)
+* [Hierarchies](https://github.com/iotaledger/hierarchies) - Organizational hierarchy management
+* [IOTA Names](https://github.com/iotaledger/iota-names) - Naming service for human-readable addresses on IOTA
 
 ### Developer Tools
-* [Explorer](https://explorer.iota.org/chrysalis) - IOTA Explorer
-* [Online Faucet](https://faucet.testnet.chrysalis2.com/) - Tool to get Testnet IOTA tokens.
-* [cli-wallet](https://github.com/iotaledger/cli-wallet) - To play with the network.
-* [chrysalis-faucet Code (nodejs + svelte)](https://github.com/iotaledger/chrysalis-faucet) - For developer inspiration
-* [tangle-cli](https://github.com/iotaledger/tangle.js/tree/main/tools/tangle-cli) - To play with Decentralized IDs, Verifiable Credentials, IOTA Streams, ... 
 
-### Utility Libraries for App Developers
-* [anchors](https://github.com/iotaledger/tangle.js/tree/main/libs/anchors) - IOTA Streams' single publisher channels made easier.
-* [ld-proofs](https://github.com/iotaledger/tangle.js/tree/main/libs/ld-proofs) - Sign and anchor your messages to the Tangle as [W3C Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs/). 
+* [IOTA CLI](https://docs.iota.org/developer/references/cli/client) - Address generation, transaction building, network interaction
+* [IOTA Move CLI](https://docs.iota.org/developer/references/cli/move) - Compile, test, and publish Move smart contracts
+* [IOTA PTB CLI](https://docs.iota.org/developer/references/cli/ptb) - Build and execute Programmable Transaction Blocks
+* [IOTA Move VS Code Extension](https://marketplace.visualstudio.com/items?itemName=iotaledger.iota-move) - Syntax highlighting, autocompletion, and code navigation for Move
+* [PTB Builder](https://github.com/iotaledger/ptb-builder) - Visual tool for building Programmable Transaction Blocks
+* [MSafe](https://iota.m-safe.io/) - Multi-signature wallet management
+
+### Node Software
+
+* [IOTA Node](https://github.com/iotaledger/iota) - Main monorepo: full node, validator, SDKs, Move framework, CLI tools (Rust)
+    * [Full Node Setup](https://docs.iota.org/operator/full-node/source)
+    * [Validator Node Setup](https://docs.iota.org/operator/validator-node/overview)
+
+### Network Endpoints
+
+| Network | RPC Endpoint | GraphQL Endpoint | Faucet |
+|---------|-------------|-----------------|--------|
+| Mainnet | `https://api.mainnet.iota.cafe` | `https://graphql.mainnet.iota.cafe` | — |
+| Testnet | `https://api.testnet.iota.cafe` | `https://graphql.testnet.iota.cafe` | `https://faucet.testnet.iota.cafe/gas` |
+| Devnet | `https://api.devnet.iota.cafe` | `https://graphql.devnet.iota.cafe` | `https://faucet.devnet.iota.cafe/gas` |
+
+CLI faucet: `iota client faucet`
+
+## Ecosystem
+
+*Notable projects building on IOTA Rebased*
+
+### Infrastructure
+
+* [Stargate / LayerZero](https://stargate.finance/) - Cross-chain bridge connecting IOTA to 150+ networks
+* [Pyth Network](https://pyth.network/) - Decentralized oracle providing real-time price feeds on IOTA EVM
+* [Switchboard](https://docs.switchboard.xyz/) - Decentralized oracle for Move L1 smart contracts
+* [GiveRep](https://giverep.com/) - SocialFi reputation platform powering the IOTA Ambassador Program
+* [Echo Protocol](https://echoprotocol.io/) - Native Bitcoin bridge to IOTA, minting iBTC (first native BTC asset on IOTA)
+* [Turnkey](https://www.turnkey.com/) - Enterprise-grade wallet infrastructure for building secure, non-custodial apps on IOTA
+
+### DeFi — Move L1
+
+* [Swirl](https://swirlstake.com/) - Liquid staking (stake IOTA, receive stIOTA)
+* [Pools](https://www.pools.finance/) - Decentralized exchange on IOTA Rebased
+* [Virtue](https://virtue.money/) - Native CDP stablecoin protocol (mint vUSD with IOTA or stIOTA)
+* [Omneon](https://omneon.xyz/) - Decentralized money market on Move L1 (testnet)
+
+### DeFi — EVM L2
+
+* [CyberPerp](https://cyberperp.io/) - Perpetual futures DEX on IOTA EVM (up to 50x leverage)
+* [Deepr Finance](https://deepr.finance/) - Decentralized lending and borrowing on IOTA EVM
+* [ioLend](https://iolend.finance/) - Lending protocol on IOTA EVM
+* [MagicSea](https://magicsea.finance/) - DEX and NFT marketplace on IOTA EVM
+
+### RWA & Trade
+
+* [Realize](https://www.realizeassets.com/) - Tokenized T-Bills and real-world asset platform
+* [DeFa / InvoiceMate](https://www.invoicemate.net/) - AI-native real-world asset factoring protocol
+
+### Other
+
+* [LiquidLink](https://iota.liquidlink.io/) - On-chain incentive infrastructure (points and campaigns)
+* [IOTA Names](https://iotanames.com/) - Naming service for human-readable IOTA addresses
+* [TokenLabs](https://tokenlabs.network/) - Validator, staking platform, and developer academy
+
+## Community
+
+*Where to connect with the IOTA community*
+
+* [Discord](https://discord.iota.org) - IOTA Community Discord server
+* [Discord (Builders)](https://builders-discord.iota.org) - IOTA Builder Discord server for developers
+* [X / Twitter](https://x.com/iota) - Official IOTA account
+* [Telegram](https://t.me/IOTA_Official_Community) - IOTA community group
+* [Reddit](https://www.reddit.com/r/Iota/) - Community subreddit
+* [LinkedIn](https://www.linkedin.com/company/iotafoundation/) - IOTA Foundation on LinkedIn
+* [Governance Forum](https://govern.iota.org) - Community governance proposals and discussions
+
+## Events & Hackathons
+
+*Developer events and hackathons*
+
+* [MOVEATHON APAC](https://blog.iota.org/iota-moveathon-hackathon/) - Nine-week hackathon with final showcase in Singapore (June 2025)
+* [MOVEATHON Europe](https://blog.iota.org/moveathon-europe-registration-open/) - 395 participants, 28 projects across five tracks: DeFi & Tokenization, Digital Identity, Supply Chain, Open Advanced, Open Novice
+* [IOTA Hackathon Malaysia 2025](https://blog.iota.org/iota-hackathon-malaysia-2025/) - Three-day hackathon in Kuala Lumpur (July 2025)
+
+## Grants & Funding
+
+*Funding programs for building on IOTA*
+
+* [IOTA Grants](https://iotadlt.foundation/grants) - Grants for open-source development, education, and events
+* [Business Innovation Program](https://blog.iota.org/iota-business-innovation-program/) - Up to EUR 100,000 funding for IOTA-powered commercial products
+* [Tangle Community Treasury](https://tangletreasury.org/) - Community-governed decentralized grant fund
+* [Ecosystem Transparency](https://transparency.iota.org/) - Ecosystem Development Fund tracker
 
 # Contributing
 
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new blogs, tutorials, videos or libraries to the list. 
+Your contributions are always welcome! Please submit a pull request or create an issue to add new blogs, tutorials, videos or libraries to the list.
