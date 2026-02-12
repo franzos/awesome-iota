@@ -198,7 +198,6 @@ CLI faucet: `iota client faucet`
 
 * [CyberPerp](https://cyberperp.io/) - Perpetual futures DEX on IOTA EVM (up to 50x leverage)
 * [Deepr Finance](https://deepr.finance/) - Decentralized lending and borrowing on IOTA EVM
-* [ioLend](https://iolend.finance/) - Lending protocol on IOTA EVM
 * [MagicSea](https://magicsea.finance/) - DEX and NFT marketplace on IOTA EVM
 
 ### RWA & Trade
