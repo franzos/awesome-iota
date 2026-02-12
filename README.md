@@ -182,7 +182,7 @@ CLI faucet: `iota client faucet`
 
 * [Stargate / LayerZero](https://stargate.finance/) - Cross-chain bridge connecting IOTA to other networks
 * [Pyth Network](https://pyth.network/) - Decentralized oracle providing real-time price feeds on IOTA EVM
-* [Switchboard](https://docs.switchboard.xyz/) - Decentralized oracle for Move L1 smart contracts
+* [Switchboard](https://docs.switchboard.xyz/docs-by-chain/iota) - Decentralized oracle for Move L1 smart contracts
 * [GiveRep](https://giverep.com/) - SocialFi reputation platform powering the IOTA Ambassador Program
 * [Echo Protocol](https://echoprotocol.io/) - Native Bitcoin bridge to IOTA, minting iBTC (first native BTC asset on IOTA)
 * [Turnkey](https://www.turnkey.com/) - Enterprise-grade wallet infrastructure for building secure, non-custodial apps on IOTA
