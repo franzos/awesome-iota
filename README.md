@@ -192,7 +192,7 @@ CLI faucet: `iota client faucet`
 * [Swirl](https://swirlstake.com/) - Liquid staking (stake IOTA, receive stIOTA)
 * [Pools](https://www.pools.finance/) - Decentralized exchange on IOTA Rebased
 * [Virtue](https://virtue.money/) - Native CDP stablecoin protocol (mint vUSD with IOTA or stIOTA)
-* [Omneon](https://omneon.xyz/) - Decentralized money market on Move L1 (testnet)
+
 
 ### DeFi — EVM L2
 
