@@ -59,7 +59,7 @@ The IOTA Foundation is a non-profit based in Germany, focused on building infras
 * [This initiative could cut the cost of global trade by 25%](https://www.weforum.org/stories/2025/06/twin-foundation-global-trade/) - World Economic Forum on TWIN
 * [Trade Finance, Reinvented](https://blog.iota.org/trade-finance-reinvented/) - Salus: trade finance for critical minerals
 * [GLEIF Partnership](https://blog.iota.org/gleif-partnership/) - Verifiable digital business identities via GLEIF
-* [IOTA Trust Framework](https://blog.iota.org/iota-trust-framework/) - Toolkit for identity, notarization, and tokenization
+* [IOTA Trust Framework](https://blog.iota.org/iota-trust-framework/) - Toolkit for identity, hierarchies, notarization, and tokenization
 * [IOTA is Now a Shari'a-Compliant Token](https://blog.iota.org/sharia-compliance-iota/) - Shari'a compliance certificate (Cambridge IIF)
 * [Next Steps for ADAPT](https://blog.iota.org/next-steps-for-adapt/) - ADAPT rollout plan (December 2025)
 * [Turning Pilots into Progress](https://blog.iota.org/turning-pilots-into-progress/) - UK trade pilot results (February 2026)
