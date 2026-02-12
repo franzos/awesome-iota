@@ -180,7 +180,7 @@ CLI faucet: `iota client faucet`
 
 ### Infrastructure
 
-* [Stargate / LayerZero](https://stargate.finance/) - Cross-chain bridge connecting IOTA to 150+ networks
+* [Stargate / LayerZero](https://stargate.finance/) - Cross-chain bridge connecting IOTA to other networks
 * [Pyth Network](https://pyth.network/) - Decentralized oracle providing real-time price feeds on IOTA EVM
 * [Switchboard](https://docs.switchboard.xyz/) - Decentralized oracle for Move L1 smart contracts
 * [GiveRep](https://giverep.com/) - SocialFi reputation platform powering the IOTA Ambassador Program
