@@ -223,14 +223,6 @@ CLI faucet: `iota client faucet`
 * [LinkedIn](https://www.linkedin.com/company/iotafoundation/) - IOTA Foundation on LinkedIn
 * [Governance Forum](https://govern.iota.org) - Community governance proposals and discussions
 
-## Events & Hackathons
-
-*Developer events and hackathons*
-
-* [MOVEATHON APAC](https://blog.iota.org/iota-moveathon-hackathon/) - Nine-week hackathon with final showcase in Singapore (June 2025)
-* [MOVEATHON Europe](https://blog.iota.org/moveathon-europe-registration-open/) - 395 participants, 28 projects across five tracks: DeFi & Tokenization, Digital Identity, Supply Chain, Open Advanced, Open Novice
-* [IOTA Hackathon Malaysia 2025](https://blog.iota.org/iota-hackathon-malaysia-2025/) - Three-day hackathon in Kuala Lumpur (July 2025)
-
 ## Grants & Funding
 
 *Funding programs for building on IOTA*
