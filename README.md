@@ -89,6 +89,7 @@ The IOTA Foundation is a non-profit based in Germany, focused on building infras
 *Videos about IOTA*
 
 * [What Is Iota In a Nutshell](https://www.youtube.com/watch?v=aCJYMwKPSpk) - Rebased upgrade explained (Boxmining, 2025)
+* [ADAPT - Revolutionizing Trade on the African Continent](https://www.youtube.com/watch?v=0Wf4ghtrlfg) - Digital trade infrastructure for 55 African countries
 * [IOTA Foundation](https://www.youtube.com/@iotafoundation) - Official YouTube channel
 
 ## Wallets
